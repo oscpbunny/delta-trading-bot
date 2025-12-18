@@ -1,11 +1,10 @@
 {
   "symbol": "ETHUSD",
   "grid_levels": 5,
-  "grid_width": 0.005,
-  "risk_percentage": 5,
-  "min_quantity": 0.01,
+  "grid_width": 0.01,
+  "risk_percentage": 1.0,
+  "min_quantity": 0.1,
   "cycle_delay": 60,
-  "min_balance": 10,
-  "leverage": 100,
-  "take_profit_percent": 0.5
+  "min_balance": 100,
+  "initial_capital": 1000
 }
